@@ -1,0 +1,30 @@
+- Güncellenmiş Laravel & Vue.js Sürümü
+- Öğrenci ve Çalışan Arama için Klavye Navigasyonu
+- Mevcut Menü için Klavye Navigasyonu
+- Yeni Akademik Dönem Modülü
+- Etkinliği Sorumluya Atama
+- Maaş Hesaplamada Koşullu Formül
+- Sorguyu Kayıta Dönüştür
+- Sorguyu Çalışana Ata
+- Sorgu İthal Et
+- Şikayeti Çalışanlara Ata
+- Şikayet Günlüklerini Yönet
+- Öğrencinin Profilinde Devamsızlık, Ders, Sınav
+- Öğrenciyi Silme Desteği
+- Grup Bazında Ders Programı Yazdırma
+- Öğrenci ve Çalışan Ders Programı Dashboard Akışında
+- Geliştirilmiş İletişim Modülü
+- Mezun Modülü, Mezunlar için Etkinlikler
+- Disiplin Modülü
+- İletişim -> E-posta Gönder Modülü
+- Laravel, Vue.js & Tailwind CSS'in en son sürümleri ile sıfırdan yazıldı
+- Yeni Arayüz, Yeni Tasarım, Yeni Deneyim
+- Çoklu Okul Özelliği Desteği
+- Yeni İşe Alım Modülü
+- Yeni Yemekhane Modülü
+- Yeni Aktivite Modülü
+- Yeni Özel Form Modülü
+- Yeni Galeri Modülü
+- Öğrenci ve Veli için Geliştirilmiş Dashboard
+- Deneme Özelliği ile Geliştirilmiş Sınav Modülü
+- Başlık Bazında Ücret Ödemesi ile Geliştirilmiş Ücret Modülü
